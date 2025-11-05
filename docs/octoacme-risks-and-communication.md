@@ -20,8 +20,15 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs:
+  - **Engineering stakeholders**: Engineering Lead, Developers, QA/Test
+  - **Product stakeholders**: Product Manager, UX Designer
+  - **Process stakeholders**: Scrum Master, PM
+  - **External stakeholders**: Compliance/Regulatory, Support/Customer Success, Sales, Leadership
 - Provide regular updates (weekly or milestone-based)
+  - PM owns status communication to all stakeholder groups
+  - Support/Customer Success receives early notification of customer-facing changes
+  - Compliance/Regulatory included in reviews for regulated features
 - Use a single source of truth (project README or release doc) for status
 
 ## Communication Templates
